@@ -1,0 +1,24 @@
+{
+  "name": "xiaomi-yi",
+  "version": "0.0.1",
+  "description": "Node library for controlling Xiaomi Yi Action Camera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fibasile/xiaomi-yi.git"
+  },
+  "keywords": [
+    "xiaomi",
+    "action",
+    "camer"
+  ],
+  "author": "Fiore Basile",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fibasile/xiaomi-yi/issues"
+  },
+  "homepage": "https://github.com/fibasile/xiaomi-yi#readme"
+}
